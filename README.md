@@ -2,4 +2,4 @@
 
 Welcome to the documentation!
 
-[View the documentation](https://hmsfrance.github.io/TestDoc/index.html)
+[View the documentation](https://hmsfrance.github.io/TestDoc/xvsdk/index.html)
