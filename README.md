@@ -1,3 +1,5 @@
 # TestDoc
 
-[link](xvsdk/index.html)
+Welcome to the documentation!
+
+[View the documentation](https://hmsfrance.github.io/TestDoc/index.html)
